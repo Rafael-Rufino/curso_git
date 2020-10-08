@@ -1,7 +1,5 @@
 # curso_git
 
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -10,7 +8,7 @@
   
 </head>
 <body>
-    <img src="https://github.com/vitorserrano/ecoleta/raw/master/.github/logo.png" alt="logo">
+   <img src="/logo.svg" alt="logo">
 
    Recicle! ajude o meio ambiente!
     Made by Rocketseat License
@@ -38,8 +36,8 @@
 
  
     
+ <h1 class = ".Tecnologias-Utilizadas">Tecnologias Utilizadas<h1>
 
- 
     Documentação
     Tecnologias Utilizadas
     Como Usar
@@ -55,7 +53,7 @@
     Para reforçar alguns conceitos e registrar comandos que são dificeis de se lembrar eu fiz uma pequena DOCUMENTAÇÃO para ajudar quem esta iniciando com TypeScript, Node, ReactJS e React Native.
     
     
-    🚀 #Tecnologias Utilizadas
+    🚀 <h1>Tecnologias-Utilizadas<h1>
     O projeto foi desenvolvido utilizando as seguintes tecnologias
     
     TypeScript
