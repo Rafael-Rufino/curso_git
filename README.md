@@ -8,7 +8,8 @@
   
 </head>
 <body>
-   <img src="/logo.svg" alt="logo">
+    <img style="align-items: center; width: 100%;" src="/logo.png" alt="logo">
+
 
    Recicle! ajude o meio ambiente!
     Made by Rocketseat License
