@@ -1,5 +1,7 @@
 # curso_git
 
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -10,12 +12,12 @@
 <body>
     <img src="https://github.com/vitorserrano/ecoleta/raw/master/.github/logo.png" alt="logo">
 
-    Recicle! ajude o meio ambiente!
+   Recicle! ajude o meio ambiente!
     Made by Rocketseat License
     
     Run in Insomnia
-    
-    <h1 Índice></h1>
+
+<h1>Índice</h1>
     <ul>
         <li>
             <a href="#Sobre">Sobre</a> 
@@ -33,6 +35,10 @@
             <a href="#como-contribuir">Sobre</a> 
         </li>
     </ul>
+
+ 
+    
+
  
     Documentação
     Tecnologias Utilizadas
