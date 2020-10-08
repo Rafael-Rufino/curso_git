@@ -45,17 +45,17 @@
     Como Usar
     Como Contribuir
     
-    🔖 Sobre
+    🔖 #Sobre
     O Ecoleta é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
     
     Essa aplicação foi construída na trilha Booster da Next Level Week distribuída pela Rocketseat. A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da semana do meio ambiente
     
     
-    📚 Documentação
+    📚 #Documentação
     Para reforçar alguns conceitos e registrar comandos que são dificeis de se lembrar eu fiz uma pequena DOCUMENTAÇÃO para ajudar quem esta iniciando com TypeScript, Node, ReactJS e React Native.
     
     
-    🚀 Tecnologias Utilizadas
+    🚀 #Tecnologias Utilizadas
     O projeto foi desenvolvido utilizando as seguintes tecnologias
     
     TypeScript
@@ -68,7 +68,7 @@
     ✔️ 📱 Resultado Mobile
     Mobile Home Mobile Detail
     
-    🔥 Como usar
+    🔥 #Como usar
     Pré-requisitos
     É necessário possuir o Node.js instalado na máquina
     Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
@@ -95,7 +95,7 @@
       $ cd mobile
       $ npm start
     
-    ♻️ Como contribuir
+    ♻️ #Como contribuir
     Faça um Fork desse repositório,
     Crie uma branch com a sua feature: git checkout -b my-feature
     Commit suas mudanças: git commit -m 'feat: My new feature'
